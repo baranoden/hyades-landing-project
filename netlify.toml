@@ -8,9 +8,3 @@ NETLIFY_NEXT_PLUGIN_SKIP = "true"
 
 [dev]
 framework = "#static"
-
-[[plugins]]
-package = "./local-plugin"
-
-[[plugins]]
-package = "@netlify/plugin-local-install-core"
