@@ -1,3 +1,5 @@
+/** @jsxRuntime classic */
+
 /** @jsx jsx */
 import { jsx, Image, Box, Heading, Text } from "theme-ui";
 
